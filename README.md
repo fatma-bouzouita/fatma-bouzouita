@@ -19,3 +19,9 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://reactjs.org/favicon.ico" alt="react" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgres" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+
+<h3 align="left">Stat:</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatma-bouzouita&show_icons=true&locale=en&layout=compact" alt="fatma-bouzouita" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatma-bouzouita&show_icons=true&locale=en" alt="fatma-bouzouita" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatma-bouzouita&" alt="fatma-bouzouita" /></p>
