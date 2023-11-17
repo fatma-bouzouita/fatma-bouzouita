@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatma Bouzouita </h1>
-<h3 align="center"> Software engineering Student</h3>
+<h3 align="center"> Software Engineering Student</h3>
 
 📫 How to reach me : bouzouitafatma5@gmail.com
 
