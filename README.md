@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fatma Bouzouita </h1>
 <h3 align="center"> Software Engineering Student</h3>
--🌱 I’m currently learning  MERN stack.
+- 🌱 I’m currently learning  MERN stack.
 
--📫 How to reach me : bouzouitafatma5@gmail.com
+- 📫 How to reach me : bouzouitafatma5@gmail.com
 
--📫 My Linkedin : https://www.linkedin.com/in/fatma-bouzouita-3313bb214/
+- 📫 My Linkedin : https://www.linkedin.com/in/fatma-bouzouita-3313bb214/
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
