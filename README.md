@@ -6,7 +6,6 @@
 - 📫 How to reach me : bouzouitafatma5@gmail.com
 
 - 📫 My Linkedin : https://www.linkedin.com/in/fatma-bouzouita-3313bb214/
-- [C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
