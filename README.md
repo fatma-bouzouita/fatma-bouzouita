@@ -53,7 +53,4 @@
 
 
 <h3 align="left">Stat:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatma-bouzouita&show_icons=true&locale=en&layout=compact" alt="fatma-bouzouita" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatma-bouzouita&show_icons=true&locale=en" alt="fatma-bouzouita" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatma-bouzouita&" alt="fatma-bouzouita" /></p>
