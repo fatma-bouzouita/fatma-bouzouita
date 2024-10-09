@@ -1,5 +1,5 @@
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%38708b&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+%F0%9F%91%8B+I'm+Fatma+Bouzouita;Software+Engineering+Student;Software+Developer" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%38708b&size=40&center=true&vCenter=true&width=800&height=50&lines=Hi+there+%F0%9F%91%8B+I'm+Fatma+Bouzouita;Software+Engineering+Student;Software+Developer" alt="Headline" />
     </div>
     
 - 🌱 I’m currently learning  MERN stack.
