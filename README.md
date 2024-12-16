@@ -54,4 +54,5 @@
 
 <h3 align="left">Stat:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatma-bouzouita&" alt="fatma-bouzouita" /></p>
-[![](https://visitcount.itsvg.in/api?id=fatma-bouzouita&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=fatma-bouzouita&icon=0&color=1)] 
+(https://visitcount.itsvg.in)
