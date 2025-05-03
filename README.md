@@ -23,6 +23,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![XML](https://img.shields.io/badge/xml-%23007396.svg?style=for-the-badge&logo=xml&logoColor=white)
 ![QWEB](https://img.shields.io/badge/QWEB-%23FF8C00.svg?style=for-the-badge&logo=odoo&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### API Tools:
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
